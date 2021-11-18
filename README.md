@@ -1,2 +1,4 @@
 # Vision-Voice
-Image captioning with dictation that uses InceptionV3, LSTM and Speech Synthesis Library to generate description of contents inside the image, and also dictate the content.
+
+https://user-images.githubusercontent.com/60666707/142464841-24595f30-3fe6-4eac-b54d-26d72103d295.mp4
+
